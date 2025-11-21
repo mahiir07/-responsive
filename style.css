@@ -79,7 +79,7 @@ img:hover {
 @media (max-width: 480px) {
   .container {
     columns: 1;
-    margin: 65px;
+    margin: 70px;
     margin-top: 10px;
   }
 
